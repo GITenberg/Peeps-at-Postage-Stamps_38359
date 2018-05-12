@@ -1,0 +1,29 @@
+_repo: Peeps-at-Postage-Stamps_38359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, Stanley C. (Stanley Currie)
+    aliases:
+    - Johnson, Stanley Currie
+    - Johnson, S. C. (Stanley Currie)
+    birthdate: 1878
+    gutenberg_agent_id: '44756'
+    url: http://www.gutenberg.org/2009/agents/44756
+description: ''
+gutenberg_issued: '2011-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38359'
+  lccn: '59058245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stamp collecting'
+- !lcc 'HE'
+title: Peeps at Postage Stamps
+url: http://www.gutenberg.org/ebooks/38359
